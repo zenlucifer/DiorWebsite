@@ -730,7 +730,7 @@ nav h3{
 {
     width: 50%;
     height: 30%;
-    letter-spacing: 0.1vw;
+    
 }
 
 #page3-part1 img{
@@ -741,7 +741,7 @@ nav h3{
     top:20%;
 }
 #page3-text{
-    font-size: 3.5vw;
+    font-size: 1.2vh;
 
 }
 
